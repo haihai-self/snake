@@ -1,1 +1,1 @@
-python client_example.py --username 'myname' --key 'mykey'
+python client_example.py --username 'Ubiq112' --key 'zudrn8c8uuNzJsci'
